@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pwned App</string>
+    <string name="Submit">Submit</string>
+    <string name="email_address">Email address....</string>
+</resources>
